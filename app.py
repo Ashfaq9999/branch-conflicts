@@ -1,4 +1,4 @@
-import gcpcloud
+import awscloud
 import time
 
 def cpu_stress():
